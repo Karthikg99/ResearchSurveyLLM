@@ -1,0 +1,6 @@
+torch
+torchvision
+llama-index
+arxiv
+weaviate-client
+sentence-formers
